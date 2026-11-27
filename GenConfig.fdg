@@ -11,17 +11,17 @@
   "GenerationItems": {
     "Validate": false,
     "AppScaffolding": {
-      "InitFromTemplate": true,
+      "InitFromTemplate": false,
       "TemplateDirectoryPath": ".\\tmp"
     },
     "Frontend": {
       "EmberJs": {
-        "EmberApp": true,
+        "EmberApp": false,
         "EmberAddon": false,
         "Build": false,
         "GitClone": false,
         "GitPush": false,
-        "GhPagesPush": true,
+        "GhPagesPush": false,
         "EmberMetadata": false
       },
       "ApacheCordova": {
